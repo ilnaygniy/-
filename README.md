@@ -1,1 +1,1 @@
-#  ![draw方法]( -_liyanying/images/draw方法.png)
+#  [draw方法](/images/draw方法.png)
